@@ -378,7 +378,9 @@ Thumbs.db
 
 ## Project specific
 .venv/
-outputs/
+*.png
+*.csv
+*.pt
 
 ## Notebooks
 *.ipynb
