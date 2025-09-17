@@ -2,7 +2,7 @@
 
 This is the code used for the simulations of the paper *Canonical Representations of Markovian Structural Causal Models: A Framework for Counterfactual Reasoning* (Lucas De Lara, 2025).
 
-By executing the three scripts, one recovers the same plots from the paper.
+By executing the three scripts, one recovers the plots from the paper.
 
 The code permits to train a distributional regression model in a similar fashion to standard regression models.
 
